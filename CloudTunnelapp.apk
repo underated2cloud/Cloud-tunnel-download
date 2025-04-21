@@ -58,3 +58,11 @@
   <a href="CloudTunnelApp.apk" download class="download-btn">Download App</a>
 </body>
 
+<body style="background-color: #0f0f0f; color: white; text-align: center; padding-top: 50px;">
+  <img src="logo.png" alt="Cloud Tunnel Logo" style="width: 150px; margin-bottom: 20px;" />
+  <h1>Cloud Tunnel VPN</h1>
+  <p>Fast. Private. Secure. Download the app below.</p>
+  <a href="Cloudtunnelapp.apk" download style="padding: 10px 20px; background-color: #00f0ff; color: black; border-radius: 8px; text-decoration: none; font-weight: bold;">
+    Download Now
+  </a>
+</body>
